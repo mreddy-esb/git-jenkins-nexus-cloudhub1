@@ -3,8 +3,8 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mycompany</groupId>
-	<artifactId>git-jenkins-nexus-cloudhub1</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+	<artifactId>git-jenkins-nexus-cloudhub</artifactId>
+    <version>1.0</version>
     <packaging>mule</packaging>
 	<name>Mule git-jenkins-nexus-cloudhub1 Application</name>
 
